@@ -23,11 +23,14 @@ function App() {
     
     <div>
       Hello World
-      <Device mydevice="ipad" />
-      <Device mydevice="iphone" />
-      <Device mydevice="iwatch" />
-      <Device mydevice="mac pro" />
-      <Device mydevice="air pod" />
+      {/* <Device mydevice="ipad" myfavoritecharacter="Mickey Mouse"/>
+      <Device mydevice="iphone" myfavoritecharacter="hahaha" />
+      <Device mydevice="iwatch" myfavoritecharacter="gagaga"/>
+      <Device mydevice="mac pro" myfavoritecharacter="nanana" />
+      <Device mydevice="air pod" myfavoritecharacter="hohoho" /> */}
+
+      <p></p>
+      <Device></Device>
     </div>
 
   );
